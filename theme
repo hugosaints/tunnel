@@ -27,7 +27,7 @@
     }, 
     {
       "user_id": 27, 
-      "value": "#FFFFFF", 
+      "value": "#000000bd", 
       "id": 41, 
       "name": "button_color"
     }, 
